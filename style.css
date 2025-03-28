@@ -39,6 +39,7 @@ main{
             }
         }
         & #parg{
+            width: 70%;
             text-align: center;
             color: hsl(0, 0%, 100%);
             opacity: 0.6;
